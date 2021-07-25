@@ -25,12 +25,9 @@
 // ---- toLowerCase (Letras minúsculas) ----
 //console.log(frase.toLowerCase());
 
-// ---- Anotações ---- 
-
-// para comentar linha =  //
-// para comentar código todo =  /* */
-
 // ---------------------------------------------
+
+
 
 // ---- Parte 2 ----
 
@@ -61,6 +58,8 @@ alert(frutas[1].nome);
 */
 
 // ---------------------------------------------
+
+
 
 // ---- Parte 3 ----
 
@@ -103,6 +102,8 @@ for(count=1; count <= 5; count++){
 
 // ---------------------------------------------
 
+
+
 // ---- Parte 4 ----
 
 // ---- Function ----
@@ -134,6 +135,8 @@ console.log(validaIdade(idade));
 
 // ---------------------------------------------
 
+
+
 // ---- Parte 5 ----
 
 function clicou(){
@@ -157,5 +160,7 @@ function voltar(elemento){
   //document.getElementById("mousemove").innerHTML = "Passe o mouse aqui"
   elemento.innerHTML = "Passe o mouse aqui"
 }
+
+// ---------------------------------------------
 
 
